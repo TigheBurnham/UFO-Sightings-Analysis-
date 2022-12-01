@@ -18,7 +18,7 @@ In the above image we can see a new user could filter the date by day, month, an
 
 As we can see from the image above the updated web page adds the new filter functions. 
 
-### Results of the updated Webpage
+### Results of the Updated Webpage
 
 ![Anchorage_Page](https://user-images.githubusercontent.com/112028534/205169778-6e9cdb63-63a5-482a-aa1c-feb139552668.PNG)
 
